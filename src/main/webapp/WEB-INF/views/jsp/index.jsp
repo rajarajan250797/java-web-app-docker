@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To My World.</h2>
-			<h3>Contact @ +91-8939321519 </h3>
+			<h3>Contact no @ +91-8939321519 </h3>
 		</div>	
 	</div>
 
